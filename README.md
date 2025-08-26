@@ -15,7 +15,6 @@ With the rise of live streaming, virtual makeup effects have become essential. O
 
 ​​Plugin Download​​: http://www.obsworks.com/facebeauty
 
-[**English**](./README_en.md) | [**中文简体**](./README.md) |
 
 # OBS Beauty Plugin Installation Guide
 
